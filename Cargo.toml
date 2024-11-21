@@ -30,6 +30,7 @@ bitset-core = { git = "https://github.com/CasualX/bitset-core" }
 vgc = { git = "https://github.com/CasualX/vgcolors" }
 named_constants = "0.2"
 pelite = { version = "0.10", features = ["unstable"] }
+sysinfo = "0.32.0"
 
 [dev-dependencies]
 external = { git = "https://github.com/CasualX/external" }
